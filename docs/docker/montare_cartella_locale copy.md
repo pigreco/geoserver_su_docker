@@ -18,7 +18,7 @@ Durante l'installazione di Docker vengono installati anche delle demo con dati d
 docker run --rm -it --entrypoint bash docker.osgeo.org/geoserver:2.26.1
 ```
 
-![](../../imgs/2025-01-17_19h48_28.png)
+![](../imgs/2025-01-17_19h48_28.png)
 
 - creare cartella nel container (consigliata lasciare questo nome)
 ```
@@ -47,9 +47,9 @@ sudo chown -R pigreco:pigreco /home/pigreco/lavoro/geoserver
 creare una ulteriore cartella, nel mio cado `pk` e popolarla con i dati che ci servono.
 
 
-![](../../imgs/2025-01-18_15h30_39.png)
+![](../imgs/2025-01-18_15h30_39.png)
 
 in GeoServer: 
 
-![](../../imgs/2025-01-18_15h35_45.png)
+![](../imgs/2025-01-18_15h35_45.png)
 

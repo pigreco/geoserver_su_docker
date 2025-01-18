@@ -21,7 +21,7 @@ docker run --rm -it --entrypoint bash docker.osgeo.org/geoserver:2.26.1
 
 Questo comando avvia un contenitore temporaneo (`--rm`) e ti dà accesso a una shell (`bash`) all'interno del contenitore.
 
-![](../../imgs/2025-01-17_19h48_28.png)
+![](../imgs/2025-01-17_19h48_28.png)
 
 ---
 
@@ -76,7 +76,7 @@ Questo comando assegna la proprietà della cartella all'utente `pigreco`.
 ### 6. **Aggiungere i dati alla cartella**
 Ora puoi aggiungere i tuoi dati (ad esempio, shapefile, raster, ecc.) nella cartella montata (`/home/pigreco/lavoro/geoserver`). Questi dati saranno accessibili all'interno del contenitore nel percorso `/opt/geoserver_data`.
 
-![](../../imgs/2025-01-18_15h30_39.png)
+![](../imgs/2025-01-18_15h30_39.png)
 
 ---
 
@@ -94,7 +94,7 @@ Ora puoi aggiungere i tuoi dati (ad esempio, shapefile, raster, ecc.) nella cart
 
 3. Vai alla sezione **"Data" > "Stores"** e configura un nuovo store per i tuoi dati.
 
-![](../../imgs/2025-01-18_15h35_45.png)
+![](../imgs/2025-01-18_15h35_45.png)
 
 ---
 

@@ -64,7 +64,7 @@ Per installare Docker su Windows, segui questi passaggi. Docker su Windows richi
    Se tutto funziona correttamente, vedrai un messaggio di benvenuto da Docker.
 
 
-![](../../imgs/2025-01-17_19h32_00.png)
+![](../imgs/2025-01-17_19h32_00.png)
 
 ---
 
@@ -78,7 +78,7 @@ Se hai scelto di utilizzare WSL 2, Docker Desktop integrerà automaticamente WSL
    ```
    Dovresti vedere una distribuzione WSL (ad esempio, Ubuntu) con la versione **2**.
 
-![](../../imgs/2025-01-17_19h25_20.png)
+![](../imgs/2025-01-17_19h25_20.png)
 
 ---
 

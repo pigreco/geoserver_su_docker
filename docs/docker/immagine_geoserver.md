@@ -64,7 +64,7 @@ Le credenziali predefinite sono:
 - **Password**: `geoserver`
 
 
-![](../../imgs/2025-01-17_19h45_51.png)
+![](../imgs/2025-01-17_19h45_51.png)
 
 ---
 
