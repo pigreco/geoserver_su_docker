@@ -38,6 +38,9 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+repo_url: https://github.com/pigreco/geoserver_su_docker
+edit_uri: edit/main/docs/
+
 ## Page tree
 nav:
   - Home: index.md
