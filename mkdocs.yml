@@ -1,4 +1,10 @@
 site_name: Geoserver su Docker
+site_author: by Totò
+site_url: ""
+
+# Copyright
+copyright: <b>Ing. Salvatore Fiandaca</b> | 2025 | <a href="https://opendatasicilia.it/" target="_self" title="Chi Siamo" >About</a>
+
 theme:
   name: material
   language: it
