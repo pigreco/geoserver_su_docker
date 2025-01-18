@@ -65,7 +65,7 @@ Le credenziali predefinite sono:
 
 ---
 
-### **5. Montare una cartella di dati (opzionale: per maggiori dettagli clicca qui)**
+### **5. Montare una cartella di dati (opzionale: per maggiori dettagli clicca [qui](montare_cartella_locale.md))**
 Se vuoi montare una cartella del sistema host per memorizzare i dati di GeoServer, puoi utilizzare l'opzione `-v`:
 
 ```bash
