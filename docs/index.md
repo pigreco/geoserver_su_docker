@@ -13,4 +13,4 @@ description: Docker
   <img src="../../imgs/2025-01-18_16h12_16.png" alt="Image 2" style="width: 90%;">
 </div>
 
-Il testo è stato generato con l'ausilio di [DeepSeek AI](https://chat.deepseek.com/)
+Il testo è stato generato con l'ausilio di [DeepSeek AI](https://chat.deepseek.com/)!
