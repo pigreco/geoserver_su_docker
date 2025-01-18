@@ -8,6 +8,8 @@ description: Docker montare cartella dati in locale
 
 # Docker montare cartella
 
+Durante l'installazione di Docker vengono installati anche delle demo con dati di esempio, ma se volessimo usare i nostri dati occorre creare una cartella in locale e caricarci i dati. Per far questo occorre montare una cartella.
+
 ## Procedura scambio cartelle
 
 - lanciare la shell del container:
