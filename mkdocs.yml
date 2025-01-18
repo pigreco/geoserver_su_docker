@@ -16,6 +16,15 @@ theme:
     - content.action.view
     - content.code.copy
 
+## Page tree
+nav:
+  - Home: index.md
+  # - About: about.md
+  - Abstract: abstract.md
+  - Docker: docker.md
+
+
+
 plugins:
 - search
 - social
