@@ -115,4 +115,4 @@ Per aggiornare Docker Desktop:
 ---
 
 ### **Conclusione**
-Hai installato Docker su Windows! Ora puoi creare, eseguire e gestire contenitori per le tue applicazioni. Se hai bisogno di ulteriori chiarimenti o hai problemi durante l'installazione, fammi sapere! 😊
+Hai installato Docker su Windows! Ora puoi creare, eseguire e gestire contenitori per le tue applicazioni.

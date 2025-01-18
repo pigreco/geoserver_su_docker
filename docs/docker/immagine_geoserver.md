@@ -99,6 +99,6 @@ docker pull docker.osgeo.org/geoserver:<nuova_versione>
 ---
 
 ### **Conclusione**
-Hai scaricato l'immagine Docker di GeoServer da OSGeo e avviato un contenitore. Ora puoi utilizzare GeoServer per pubblicare e gestire i tuoi dati geospaziali. Se hai bisogno di ulteriori chiarimenti, fammi sapere! 😊
+Hai scaricato l'immagine Docker di GeoServer da OSGeo e avviato un contenitore. Ora puoi utilizzare GeoServer per pubblicare e gestire i tuoi dati geospaziali.
 
 <https://github.com/geoserver/docker>
