@@ -78,8 +78,8 @@ Se hai scelto di utilizzare WSL 2, Docker Desktop integrerà automaticamente WSL
    ```
    Dovresti vedere una distribuzione WSL (ad esempio, Ubuntu) con la versione **2**.
 
-
 ![](../../imgs/2025-01-17_19h25_20.png)
+
 ---
 
 ### **6. Utilizzare Docker Desktop**
