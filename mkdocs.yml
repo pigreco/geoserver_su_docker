@@ -85,3 +85,11 @@ markdown_extensions:
   - pymdownx.snippets
   - toc:
       permalink: true
+
+      ## Social Media
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/totofiandaca
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/pigrecoinfinito
