@@ -21,10 +21,11 @@ nav:
   - Home: index.md
   # - About: about.md
   - Abstract: abstract.md
-  - docker:
-     - INTRODUZIONE: docker/docker.md
-     - INSTALLAZIONE: docker/installazione.md
+  - Docker:
+     - Intro: docker/docker.md
+     - Installazione: docker/installazione.md
      - Download immagine: docker/immagine_geoserver.md
+     - Montare volume: docker/montare_cartella_locale.md
 
 
 

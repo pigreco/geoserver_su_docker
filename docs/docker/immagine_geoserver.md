@@ -6,7 +6,7 @@ title: Docker immagine geoserver
 description: Docker immagine geoserver
 ---
 
-# Docker immagine geoserver
+# Docker immagine GeoServer
 
 Per scaricare l'immagine Docker di GeoServer da **OSGeo**, puoi utilizzare il comando `docker pull` per ottenere l'immagine direttamente dal registro Docker di OSGeo. Ecco come fare:
 
@@ -65,11 +65,11 @@ Le credenziali predefinite sono:
 
 ---
 
-### **5. Montare una cartella di dati (opzionale)**
+### **5. Montare una cartella di dati (opzionale: per maggiori dettagli clicca qui)**
 Se vuoi montare una cartella del sistema host per memorizzare i dati di GeoServer, puoi utilizzare l'opzione `-v`:
 
 ```bash
-docker run -d -p 8080:8080 -v /path/nel/host:/opt/geoserver/data_dir --name geoserver_container docker.osgeo.org/geoserver:2.26.1
+docker run -d -p 80:8080 -v /path/nel/host:/opt/geoserver/data_dir --name geoserver_container docker.osgeo.org/geoserver:2.26.1
 ```
 
 - Sostituisci `/path/nel/host` con il percorso della cartella sul tuo sistema host.
