@@ -63,6 +63,9 @@ Le credenziali predefinite sono:
 - **Username**: `admin`
 - **Password**: `geoserver`
 
+
+![](../../imgs/2025-01-17_19h45_51.png)
+
 ---
 
 ### **5. Montare una cartella di dati (opzionale: per maggiori dettagli clicca [qui](montare_cartella_locale.md))**

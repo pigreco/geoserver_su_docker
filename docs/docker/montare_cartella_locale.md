@@ -10,13 +10,15 @@ description: Docker montare cartella dati in locale
 
 Durante l'installazione di Docker vengono installati anche delle demo con dati di esempio, ma se volessimo usare i nostri dati occorre creare una cartella in locale e caricarci i dati. Per far questo occorre montare una cartella.
 
-## Procedura scambio cartelle
+## Procedura
 
 - lanciare la shell del container:
 (avviare shell linux e lanciare)
 ```
 docker run --rm -it --entrypoint bash docker.osgeo.org/geoserver:2.26.1
 ```
+
+![](../../imgs/2025-01-17_19h48_28.png)
 
 - creare cartella nel container
 ```

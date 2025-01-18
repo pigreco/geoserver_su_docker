@@ -149,7 +149,4 @@ Docker è uno strumento potente per creare, distribuire ed eseguire applicazioni
 
 <Domanda posta a DeeoSeek AI: Che cosa è Docker, dimmi le cose essenziali>
 
-![](../../imgs/02_dati_input/img02.png){.center-img }
-
-![](../../imgs/02_dati_input/sez225dissLotto1.png){.center-img .img-60 }
 
