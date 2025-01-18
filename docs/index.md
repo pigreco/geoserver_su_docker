@@ -2,8 +2,8 @@
 hide:
   - navigation
   - toc
-title: Docker
-description: Docker
+title: Docker e GeoServer
+description: GeoServer su Docker
 ---
 
 # Welcome to Docker and GeoServer
