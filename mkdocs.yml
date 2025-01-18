@@ -41,7 +41,6 @@ theme:
 ## Page tree
 nav:
   - Home: index.md
-  # - About: about.md
   - Abstract: abstract.md
   - Docker:
      - Intro: docker/docker.md
@@ -54,6 +53,8 @@ nav:
      - Creare un nuovo Store: geoserver/store.md
      - Creare un nuovo Layer: geoserver/layer.md
      - Creare un nuovo Style: geoserver/style.md
+  - Link utili: link_utili.md
+
 
 plugins:
 - search
