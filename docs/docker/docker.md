@@ -3,7 +3,7 @@ hide:
   # - navigation
   # - toc
 title: Docker
-description: Docker
+description: Docker e GeoServer
 ---
 
 # Che cosa è Docker
