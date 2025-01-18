@@ -26,8 +26,12 @@ nav:
      - Installazione: docker/installazione.md
      - Download immagine: docker/immagine_geoserver.md
      - Montare volume: docker/montare_cartella_locale.md
-
-
+  - GeoServer:
+     - Configurazione: geoserver/configurazione.md
+     - Creare un nuovo Workspace: geoserver/workspace.md
+     - Creare un nuovo Store: geoserver/store.md
+     - Creare un nuovo Layer: geoserver/layer.md
+     - Creare un nuovo Style: geoserver/style.md
 
 plugins:
 - search
