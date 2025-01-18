@@ -6,9 +6,7 @@ title: Docker
 description: Docker
 ---
 
-# Docker
-
-## Che cosa è Docker
+# Che cosa è Docker
 
 Docker è una piattaforma **open-source** che permette di creare, distribuire ed eseguire applicazioni all'interno di **contenitori**. I contenitori sono ambienti isolati e leggeri che includono tutto il necessario per far funzionare un'applicazione: codice, librerie, dipendenze e configurazioni. Ecco le cose essenziali che devi sapere su Docker:
 
