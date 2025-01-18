@@ -17,3 +17,10 @@ La procedura inizia con l'avvio di una shell interattiva all'interno del conteni
 Vengono inoltre fornite istruzioni per impostare i permessi corretti sulla cartella montata, garantendo che GeoServer possa leggere e scrivere i dati. Una volta configurato, è possibile aggiungere i propri dati (ad esempio, shapefile, raster) alla cartella montata e configurarli in GeoServer attraverso l'interfaccia web.
 
 Questa guida è particolarmente utile per chi desidera utilizzare Docker e GeoServer in un ambiente di sviluppo o produzione, offrendo un metodo efficiente e flessibile per gestire dati geospaziali personalizzati. La configurazione descritta permette di sfruttare appieno le potenzialità di Docker e GeoServer, garantendo un ambiente di lavoro coerente e riproducibile su qualsiasi sistema.
+
+## Ringraziamenti
+
+- :face_with_monocle: [Andrea Borruso](https://mastodon.uno/@aborruso)
+- :simple-docker: [Docker](https://www.docker.com/)
+- :simple-osgeo: [GeoServer](https://geoserver.org/)
+- :simple-github: [GitHub](https://github.com/)
