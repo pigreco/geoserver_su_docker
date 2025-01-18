@@ -100,8 +100,3 @@ Ora puoi aggiungere i tuoi dati (ad esempio, shapefile, raster, ecc.) nella cart
 
 ### 8. **Verifica i dati**
 Dopo aver configurato GeoServer, verifica che i tuoi dati siano accessibili e pubblicabili. Puoi creare layer, stili e visualizzare i dati sulla mappa.
-
----
-
-### **Conclusione**
-Hai configurato Docker per montare una cartella locale e utilizzare i tuoi dati con GeoServer. Questo ti permette di lavorare con i tuoi file geospaziali in modo efficiente e flessibile. Se hai bisogno di ulteriori chiarimenti, fammi sapere! 😊
