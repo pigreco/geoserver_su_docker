@@ -63,8 +63,8 @@ docker logs 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6
 ## Gestione Container
 
 - Fermare il container: `docker stop <container_id_o_nome>`
-  - ESEMPIO: `docker stop 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`;
+   - ESEMPIO: `docker stop 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`;
 - Riavviare container: `docker start <container_id_o_nome>`
-  - `docker start 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`;
+   - ESEMPIO: `docker start 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`;
 - Eliminare container: `docker rm <container_id_o_nome>`
-  - `docker rm -f 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`.
+   - ESEMPIO: `docker rm -f 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`.
