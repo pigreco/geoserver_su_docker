@@ -26,7 +26,7 @@ Una volta che Docker è in esecuzione, puoi avviare GeoServer (da una shell Linu
 
 ```bash
 docker run -d -p 80:8080 \
-  --mount type=bind,src="/home/pigreco/geoserver_data",target=/opt/geoserver_data \
+  --mount type=bind,src="/home/pigreco/lavoro/geoserver",target=/opt/geoserver_data/ \
   docker.osgeo.org/geoserver:2.26.1
 ```
 
@@ -62,9 +62,9 @@ docker logs 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6
 
 ## Gestione Container
 
-- Fermare il container: `docker stop 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`;
-- Riavviare container: `docker start 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`;
-- Eliminare container: `docker rm -f 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`.
-
-
-
+- Fermare il container: `docker stop <container_id_o_nome>`
+  - ESEMPIO: `docker stop 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`;
+- Riavviare container: `docker start <container_id_o_nome>`
+  - `docker start 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`;
+- Eliminare container: `docker rm <container_id_o_nome>`
+  - `docker rm -f 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`.
