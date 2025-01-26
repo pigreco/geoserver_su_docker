@@ -1,7 +1,7 @@
 ---
 hide:
   - navigation
-  - toc
+  # - toc
 title: Avviare GeoServer
 description: Avviare GeoServer da Docker
 ---
