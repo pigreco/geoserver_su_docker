@@ -36,10 +36,35 @@ Spiegazione del comando:
 
 `-d:` Avvia il container in modalità detached (in background).
 
-`-p 80:8080:` Mappa la porta 8080 del sistema host alla porta 8080 del container.
+`-p 80:8080:`
+
+- Mappa la porta 80 del sistema host alla porta 8080 del container.
+- Questo significa che potrai accedere a GeoServer all'indirizzo http://localhost:80/geoserver.
 
 `--mount type=bind,src="/home/pigreco/geoserver_data",target=/opt/geoserver_data:`
 
-Monta la directory /home/pigreco/geoserver_data del sistema host nella directory /opt/geoserver_data del container.
+- Monta la directory /home/pigreco/geoserver_data del sistema host nella directory /opt/geoserver_data del container.
+- Questo consente di salvare i dati di configurazione di GeoServer in modo persistente.
 
-Questo consente di salvare i dati di configurazione di GeoServer in modo persistente.
+`docker.osgeo.org/geoserver:2.26.1:` Utilizza l'immagine Docker di GeoServer versione 2.26.1.
+
+Output del comando:
+
+L'output `96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6` è l'ID del container avviato. Puoi usare questo ID per gestire il container (es. fermarlo, riavviarlo, visualizzare i log).
+
+Visualizza i log del container:
+
+Se hai bisogno di verificare lo stato di avvio o risolvere eventuali problemi, puoi visualizzare i log del container con:
+
+```bash
+docker logs 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6
+```
+
+## Gestione Container
+
+- Fermare il container: `docker stop 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`;
+- Riavviare container: `docker start 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`;
+- Eliminare container: `docker rm -f 96103ac90a82f4555ba53d92433f8dab5c69ec2b1eb990a0c381fa8ec9767df6`.
+
+
+
