@@ -57,6 +57,7 @@ nav:
      - Creare un nuovo Store: geoserver/store.md
      - Creare un nuovo Layer: geoserver/layer.md
      - Creare un nuovo Style: geoserver/style.md
+  - Avviare GeoServer: avviare_geoserver.md
   - Link utili: link_utili.md
 
 
